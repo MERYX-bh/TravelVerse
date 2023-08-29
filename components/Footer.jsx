@@ -18,7 +18,7 @@ const Footer = () => (
       flex-wrap gap-5">
         <h4 className="font-bold md:text-[64px]
         text-[44px] text-white">
-          Enter the metaverse
+          Choose a destination
         </h4>
         <button type="button" className="flex items-center
         h-fit py-4 px-6 bg-[#25618b] rounded-[32px] gap-[12px]">
@@ -26,7 +26,7 @@ const Footer = () => (
           src="/headset.svg"
           className="w-[24px] h-[24px] object-contain"
           />
-          <span className="font-normal text-[16px] text-white">ENTER METAVERSE</span>
+          <span className="font-normal text-[16px] text-white">BOOK A TRIP </span>
         </button>
       </div>
 
@@ -34,9 +34,9 @@ const Footer = () => (
         <div className="mb-[50px] h-[2px] opacity-10 bg-white" />
         <div className="flex items-center justify-between flex-wrap gap-4">
           <h4 className="font-extrabold text-[24px]
-           text-white">Metaversus</h4>
+           text-white">TravelVerse</h4>
           <p className="font-normal text-[14px] text-white opacity-50">
-            Copyright © 2021 - 2022 Metaversus. All rights reserved.
+            Copyright © 2021 - 2022 TravelVerse. All rights reserved.
           </p>
           <div className="flex gap-4">
             {socials.map((social) => (

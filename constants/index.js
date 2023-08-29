@@ -27,17 +27,17 @@ export const exploreWorlds = [
 ];
 
 export const startingFeatures = [
-  'Find a world that suits you and you want to enter',
-  'Enter the world by reading basmalah to be safe',
-  'No need to beat around the bush, just stay on the gas and have fun',
+  'Find a destination that suits you and you want to visit',
+  'See what people think about it, watch images and 3D videos',
+  'Book a trip for your dream destination and have fun',
 ];
 
 export const newFeatures = [
   {
     imgUrl: '/vrpano.svg',
-    title: 'A new world',
+    title: 'New destinations',
     subtitle:
-        'we have the latest update with new world for you to try never mind',
+        'we have the latest updates with new world for you to try new destinations',
   },
   {
     imgUrl: '/headset.svg',

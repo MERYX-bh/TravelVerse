@@ -33,7 +33,7 @@ const Hero = () => {
         className="relative w-full md:-mt-[20px] -mt-[12px]"
       > 
         <img
-          src="/ead107ab4ea877ebd21c3d6f30b9e8d7.jpg"
+          src="/cover3.jpg"
           alt="hero_cover"
           className="w-full sm:h-[500px] h-[350px] object-cover rounded-tl-[140px] z-10 relative"
         />
