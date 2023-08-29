@@ -19,7 +19,7 @@ const Insights = () => {
       <div className="text-center">
         <TypingText title="| Insights" className="text-center" />
       </div>
-      <TitleText title={<>Insight about metaverse</>} textStyle="text-center" />
+      <TitleText title={<>Insight about TravelVerse</>} textStyle="text-center" />
     <div className="mt-[50px] flex flex-col gap-[30px]">
       {
         insights.map((insight, index) => (
