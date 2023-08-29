@@ -17,11 +17,10 @@ const World = () => {
     flex flex-col`}
     >
     <div className="text-center">
-        <TypingText title="| People on the World" className="text-center" />
+        <TypingText title="| We are present all around the world" className="text-center" />
       </div>
     <TitleText
-      title={<> Track friends around you and invite them 
-      to play together in the same world </>}
+      title={<> Travel around the world and make new friends. </>}
       textStyle="text-center"
     />
 

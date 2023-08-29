@@ -23,7 +23,7 @@ const GetStarted = () => {
         className={`flex-1 ${styles.flexCenter}`}
         >
           <img
-          src='/get-started.png'
+          src='/globe1.png'
           alt='getstarted'
           className="w-[90%] h-[90%] object-contain"
           />
@@ -34,7 +34,7 @@ const GetStarted = () => {
         className="flex-[0.75] flex justify-center flex-col"
         >
   
-        <TypingText title="| How Metaversus works" className="text-center" />
+        <TypingText title="| How it works" className="text-center" />
         <TitleText
           title={<>Get started with just few clicks</>}
   

@@ -1,28 +1,28 @@
 export const exploreWorlds = [
   {
     id: 'world-1',
-    imgUrl: '/planet-01.png',
-    title: 'The Hogwarts',
+    imgUrl: '/magic (2).jpg',
+    title: 'Bali',
   },
   {
     id: 'world-2',
-    imgUrl: '/planet-02.png',
-    title: 'The Upside Down',
+    imgUrl: '/magic (1).jpg',
+    title: 'Italia',
   },
   {
     id: 'world-3',
-    imgUrl: '/planet-03.png',
-    title: 'Kadirojo Permai',
+    imgUrl: '/ce744713e30e5f5d5f104eef3db18f94.jpg',
+    title: 'Portugal',
   },
   {
     id: 'world-4',
-    imgUrl: '/planet-04.png',
+    imgUrl: '/135cc4d4b40e95512f8586d8afba42bf.jpg',
     title: 'Paradise Island',
   },
   {
     id: 'world-5',
-    imgUrl: '/planet-05.png',
-    title: 'Hawkins Labs',
+    imgUrl: '/a1e4118a2194424ba007d6cc421a81a2.jpg',
+    title: 'Istanbul, Turkey',
   },
 ];
 
